@@ -1,0 +1,357 @@
+  1  ssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.comssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.comssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.comssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.com
+    2  cd downloads/
+    3  cd Downloads/
+    4  cd downloads/
+    5  cd/
+    6  ls-ltr/tail
+    7  ls/
+    8  ls-al
+    9  ls -al
+   10  ls -ltrh
+   11  vim messages
+   12  cd -devops
+   13  cd/
+   14  ls -al
+   15  vim y
+   16  ls
+   17  ssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.com
+   18  sudo su
+   19  uname
+   20  unmae -a
+   21  uname -a
+   22  whoam -i
+   23  cat/etc/passwd
+   24  locate output.txt
+   25  chmod 700
+   26  vim messages
+   27  sudo su -
+   28  cd/
+   29  mkdir linux_commands
+   30  ls
+   31  sudo su-
+   32  cd/
+   33  file1.txt
+   34  vi file1.txt
+   35  vim messages
+   36  ssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.com
+   37  ssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.com
+   38  ssh -i "devopskeypair.pem" ec2-user@ec2-13-233-186-115.ap-south-1.compute.amazonaws.com
+   39  ssh -i "devops key pair123.pem" ec2-user@ec2-43-205-229-129.ap-south-1.compute.amazonaws.com
+   40  cd/
+   41  mkdir linux_commands
+   42  ls
+   43  cd linux_commands
+   44  ls
+   45  cd
+   46  cd preetam
+   47  cd devops
+   48  cd desktop
+   49  ls
+   50  cd
+   51  cd linux_commands
+   52  cd linux
+   53  cd linux_commands
+   54  cd linux_commands
+   55  cd desktop
+   56  touch file1.txt
+   57  ls
+   58  cat>file2.txt
+   59  ls
+   60  cat file2.txt
+   61  cat>file3.txt
+   62  ls
+   63  cat file3.txt
+   64  cat file2.txt
+   65  cat file2.txt file3.txt>filemerge.txt
+   66  ls
+   67  cat filemerge.txt
+   68  ls
+   69  ls *.txt
+   70  cd
+   71  ls
+   72  ls *.c
+   73  ls *.a
+   74  ls *.txt
+   75  pwd
+   76  cd linux_commands
+   77  cd desktop
+   78  pwd
+   79  cp file3.txt. file4.txt
+   80  cp file2.txt file3.txt
+   81  ls
+   82  cat file3.txt
+   83  cat file2.txt
+   84  cd
+   85  ls
+   86  mv appdata /home/preetampreetu/desktop
+   87  mv appdata/preetampreetu/desktop
+   88  cd desktop
+   89  ls
+   90  cat file1.txt
+   91  vi file1.txt
+   92  cat file1.txt
+   93  head file1.txt
+   94  tial file1.txt
+   95  tail file1.txt
+   96  tac file.txt
+   97  tac file1.txt
+   98  cat file3.txt
+   99  tac file3.txt
+  100  cat filemerge.txt
+  101  tac filemerge.txt
+  102  cat file1.txt
+  103  more file1.txt
+  104  more file1.txt
+  105  more file2.txt
+  106  id
+  107  clear
+  108  cat file3.txt
+  109  cat file2.txt
+  110  cat file4.txt
+  111  cat filemerge.txt
+  112  grep linux filemerge.txt
+  113  grep to filemerge.txt
+  114  grep file3.txt
+  115  cat file3.txt
+  116  grep preetam file3.txt
+  117  grep e file3.txt
+  118  cat file2.txt
+  119  cat file3.txt
+  120  diff file2.txt and file3.txt
+  121  diff file2.txt file3.txt
+  122  diff file2.txt filemerge.txt
+  123  cat filemerge.txt
+  124  diff file3.txt filemerge.txt
+  125  cat file2.txt
+  126  ping google.com
+  127  history
+-user@ip-172-31-37-0 ~]$ history
+    1  ssh -i "awskeypair1234.pem" ec2-user@ec2-3-110-29-66.ap-south-1.compute.amazonaws.com
+    2  cd
+    3  cd/
+    4  sudo su-
+    5  ssh -i "awskeypair1234.pem" ec2-user@ec2-3-110-29-66.ap-south-1.compute.amazonaws.com
+    6  sudo su-
+    7  mkdir linux_commands
+    8  ls
+    9  cd linux_commands
+   10  ls
+   11  cd preetam
+   12  cd sundeep
+   13  cd
+   14  cd preetam
+   15  mkdir
+   16  mkdir linux_commands
+   17  ssh -i "awskeypair1234.pem" ec2-user@ec2-3-110-29-66.ap-south-1.compute.amazonaws.com
+   18  mkdir linux_commands
+   19  mkdir puttygen
+   20  ls
+   21  cd puttygen
+   22  ls
+   23  cd
+   24  cd preetam
+   25  cd devops
+   26  cd
+   27  cd linux_commands
+   28  ls
+   29  cd
+   30  ls
+   31  mv pettygen /linux_commands
+   32  mv linux_command
+   33  ping google.com
+   34  history
+1  yum install git
+    2  git version
+    3  cd
+    4  cd /
+    5  git --version
+    6  mkdir naruto
+    7  cd naruto/
+    8  ls
+    9  ls -a
+   10  cd /
+   11  ls
+   12  ll
+   13  cd naruto/
+   14  ls
+   15  ls -a
+   16  git init
+   17  ls 
+   18  ls -a
+   19  git status
+   20  ls
+   21  vi test.sh
+   22  ls
+   23  git status
+   24  git add test.sh
+   25  ls
+   26  git status
+   27  git commit -m "test.sh is created"
+   28  git config --google user.email "preetamguddad@gmail.com"
+   29  git config --global user.email "preetamguddad@gmail.com
+   30  cd
+   31  cd /
+   32  ls
+   33  ls -a
+   34  ls -lh
+   35  git --version
+   36  cd
+   37  cd /
+   38  git --version
+   39  cd
+   40  cd /
+   41  mkdir naruto
+   42  rmdir naruto
+   43  ls
+   44  cd
+   45  cd /naruto/
+   46  git --version
+   47  vi test.sh
+   48  git status
+   49  git add .
+   50  git commit
+   51  git status
+   52  git config --global user.email "preetamguddad@gmail.com"
+   53  git config --global user.name "preetam"
+   54  git commit -m "test.sh is created"
+   55  git status
+   56  git logs
+   57  git log
+   58  git log -p
+   59  ls
+   60  vi test.sh
+   61  git --version
+   62  cd
+   63  cd mygit/
+   64  mkdir mygit
+   65  cd mygit/
+   66  ls
+   67  git init
+   68  ls
+   69  ls -a
+   70  touch 1
+   71  git status
+   72  git add .
+   73  git commit -m "file"
+   74  cd
+   75  mkdir microdegree
+   76  cd microdegree/
+   77  ls
+   78  git clone https://github.com/GUDDAD/microdegree-devops.git
+   79  ls
+   80  cd https://github.com/GUDDAD/microdegree-devops.git
+   81  cd microdegree_devops/
+   82  https://github.com/GUDDAD/microdegree-devops.git
+   83  git clone https://github.com/GUDDAD/microdegree-devops.git
+   84  cd naruto/
+   85  cd /
+   86  ls
+   87  mkdir mygit
+   88  cd mygit/
+   89  ls
+   90  git init
+   91  ls
+   92  ls -a
+   93  touch 1
+   94  git status
+   95  git add .
+   96  git commit -m "file"
+   97  git --version
+   98  git log
+   99  cd
+  100  mkdir microdegree 
+  101  cd microdegree/
+  102  git clone https://github.com/GUDDAD/microdegree-devops.git
+  103  cd
+  104  cd microdegree-devops/
+  105  cd
+  106  cd microdegree/
+  107  git clone https://github.com/GUDDAD/microdegree-devops.git
+  108  ls
+  109  cd microdegree-devops/
+  110  ls
+  111  ls -a
+  112  cat readme.md
+  113  cat README.md
+  114  git status
+  115  ls
+  116  vi README.md
+  117  cat README.md
+  118  git status
+  119  git add .
+  120  git commit -m "file"
+  121  git status
+  122  cd
+  123  cd naruto/
+  124  cd /
+  125  cd naruto/
+  126  git --version
+  127  vi test.sh
+  128  git status
+  129  git add .
+  130  git commit -a
+  131  git commit
+  132  git status
+  133  git log
+  134  ls
+  135  cd
+  136  ls
+  137  cd /
+  138  cd naruto/
+  139  vi test.sh
+  140  git status
+  141  git add .
+  142  git commit -m "test.sh is modified"
+  143  git logs -p
+  144  git status
+  145  git log -p
+  146  >
+  147  git status
+  148  git --version
+  149  ls
+  150  cd /
+  151  ls
+  152  cd naruto/
+  153  ls
+  154  ls -a
+  155  touch file1
+  156  git status
+  157  git add .
+  158  git status
+  159  git commit -m "new file is added"
+  160  git status
+  161  ls
+  162  ls -a
+  163  cd .git/
+  164  ls
+  165  git log -p
+  166  cd ../
+  167  touch file2
+  168  git status
+  169  git add .
+  170  git status
+  171  git restore --staged file2
+  172  ls
+  173  git status
+  174  git add .
+  175  git status
+  176  git commit -m "new file is added"
+  177  git status
+  178  touch {1..10}
+  179  ls
+  180  git status
+  181  git add .
+  182  git restore -- staged {1..10}
+  183  git status
+  184  touch {11..15}
+  185  ls
+  186  git add .11
+  187  git add 11
+  188  git status
+  189  git add .
+  190  git commit -m "file is added"
+  191  git status
+  192  git log
+  193  git log -p
+  194  history
+GITHUB PASSWORD : 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
