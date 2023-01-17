@@ -6,3 +6,4 @@ git add.
 git commit -a "your message"
 git push
 git pull
+hello micodegree
